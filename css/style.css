@@ -24,3 +24,11 @@ body {
 	color: white;
 	font-size: 18px;
 }
+
+.navbar {
+	background-image: url("../background.jpg");
+}
+
+.dropdown {
+	color: yellow;
+}
