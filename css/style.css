@@ -1,15 +1,16 @@
 body {
+	font-family: "Merriweather", serif;
 	background-color: black;
 	text-align: center;
-	font-family: sans-serif;
 }
 
 .navbar-fixed-top {
 	opacity: 0.9;
 }
 
-#title {
-	font-style: "Italianno", cursive;
+#title {	
+	font-size: 42px;
+	color: red;
 }
 
 #heading {
