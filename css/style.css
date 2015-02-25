@@ -28,8 +28,18 @@ body {
 
 #contact {
 	padding-top: 100px;
+	padding-left: 100px;
 	color: white;
 	font-size: 18px;
+	float: left;
+}
+
+#follow {
+	padding-top: 100px;
+	padding-right: 100px;
+	color: white;
+	font-size: 18px;
+	float: right;
 }
 
 .navbar {
