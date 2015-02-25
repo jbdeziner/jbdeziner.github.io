@@ -7,8 +7,8 @@ body {
 
 #page-wrap {
 	text-align: center;
-     width: 800px;
-     margin: 0 auto;
+	width: 800px;
+	margin: 0 auto;
 }
 
 .navbar-fixed-top {
@@ -80,3 +80,4 @@ ul li {
 	color: #fff;
 	font-size: 20px;
 }
+
