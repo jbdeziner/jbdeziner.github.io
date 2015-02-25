@@ -27,7 +27,7 @@ body {
 }
 
 #contact {
-	padding-top: 350px;
+	padding-top: 150px;
 	color: white;
 	font-size: 18px;
 }
@@ -63,13 +63,16 @@ body {
 	text-align:center;
 }
 
+#me {
+	padding-top: 15px;
+	color: #551A8B;
+}
+
 p {
 	color: #fff;
 	font-size: 20px;
 	text-align: justify;
 }
-
-
 
 ul li {
 	list-style-position: inside;
